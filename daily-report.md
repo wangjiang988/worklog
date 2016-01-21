@@ -9,5 +9,5 @@
 
  >TODO
  
- 1.在api中加入slug的说明（概述部分）
- 2.linux基础已经看完，vim开发复习。服务器搭建，nginx服务器搭建。
+ 1. 在api中加入slug的说明（概述部分）(加上slug说明)
+ 2. linux基础已经看完，vim开发复习。服务器搭建，nginx服务器搭建。
